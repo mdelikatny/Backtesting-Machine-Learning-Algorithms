@@ -8,14 +8,14 @@ The script downloads historical stock prices for the S&P 500 index from Yahoo Fi
 Machine Learning Models
 The script applies several machine learning algorithms to predict the direction of the stock market based on the preprocessed data. The models used in the script are:
 
-Logistic Regression
-Linear Discriminant Analysis
-K-Nearest Neighbors
-Gradient Boosting
-AdaBoost
-Random Forest
-Support Vector Machines
-Multilayer Perceptron
+  Logistic Regression
+  Linear Discriminant Analysis
+  K-Nearest Neighbors
+  Gradient Boosting
+  AdaBoost
+  Random Forest
+  Support Vector Machines
+  Multilayer Perceptron
 
 For each model, the script trains the model using the training data and evaluates the performance of the model using the validation data. The performance of the model is measured in terms of accuracy, total number of trades, final portfolio value, final portfolio return, Sharpe ratio, and maximum drawdown. The script also compares the performance of each model to a simple buy-and-hold strategy.
 
