@@ -16,6 +16,7 @@ AdaBoost
 Random Forest
 Support Vector Machines
 Multilayer Perceptron
+
 For each model, the script trains the model using the training data and evaluates the performance of the model using the validation data. The performance of the model is measured in terms of accuracy, total number of trades, final portfolio value, final portfolio return, Sharpe ratio, and maximum drawdown. The script also compares the performance of each model to a simple buy-and-hold strategy.
 
 Backtesting Framework
